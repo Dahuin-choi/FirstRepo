@@ -1,2 +1,3 @@
 # FirstRepo
 FirstRepository for Django
+I hope it works well....
